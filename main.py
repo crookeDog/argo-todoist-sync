@@ -65,3 +65,5 @@ def main():
         description = get_description_task()
         get_compiti(description)
         time.sleep(1800)
+if __name__ == "__main__":
+    main()
